@@ -4,7 +4,7 @@ class Solution:
         #Code here
     
         # Brute Force :
-        # space : O(NxN)  Time : O(1)
+        # space : O(1)  Time : O(NxN)
         
         """    
         def product(arr):
